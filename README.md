@@ -1,0 +1,1 @@
+Hello, I'm Matt. I am currently pursuing a bachelor's in Computer Science. I plan on becoming a data analyst after I graduate. In my free time, I will be uploading personal projects for my portoflio onto here.
